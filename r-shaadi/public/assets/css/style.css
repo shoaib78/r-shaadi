@@ -1,0 +1,323 @@
+/* For Login Popup Modal */
+
+.login-modal .form-group {
+    position: relative;
+}
+
+.login-modal .modal-header {
+    padding: 0;
+}
+
+.login-modal .modal-header .nav-tabs li a {
+    padding: 15px 0px;
+    border-radius: 5px 0 0 0;
+    border: 0;
+    color: #e72e77;
+}
+
+.login-modal .modal-header .nav-tabs li a:hover,
+.login-modal .modal-header .nav-tabs li a:focus {
+    color: #fff;
+}
+
+.login-modal .modal-header .nav-tabs .active a {
+    background-color: #e72e77;
+    color: #fff;
+    border: 0;
+    border-radius: 0;
+}
+
+.login-modal .modal-header .close {
+    font-size: 29px;
+    position: absolute;
+    right: -19px;
+    top: -10px;
+    opacity: 1;
+    color: #fff;
+}
+
+.login-modal .modal-body-left {
+    padding: 0 15px;
+}
+
+.login-modal .modal-body-right {
+    padding: 0 25px;
+}
+
+.login-modal .link-pink {
+    color: #e72e77;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.login-modal .login-link {
+    padding: 0 20%;
+}
+
+.login-modal .modal-icons {
+    margin-left: -10px;
+    margin-right: 20px;
+}
+
+.fogot-pw .modal-header {
+    background-color: #e72e77;
+    color: #fff;
+    border-radius: 5px 5px 0 0;
+}
+
+.modal-login-btn {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+#modal-launcher {
+    margin: 30% 0 0 30%;
+}
+
+.login-modal h1 {
+    border-bottom: 5px solid #e72e77;
+}
+
+.headingss {
+    text-align: center;
+    padding: 0;
+}
+
+.login-modal .headingss h4 {
+    margin: 15px 0;
+    font-size: 17px;
+}
+
+.login-modal .headingss hr {
+    margin-top: 0;
+}
+
+.login-modal .modal-body {
+    position: relative;
+    padding: 30px;
+}
+
+.login-modal .headingss h5 {
+    margin: 5px;
+    font-size: 14px;
+}
+
+.login-modal div#OR {
+    height: 30px;
+    width: 30px;
+    border: 1px solid #e72e77;
+    border-radius: 50%;
+    font-weight: bold;
+    line-height: 28px;
+    text-align: center;
+    font-size: 11px;
+    float: right;
+    position: absolute;
+    right: 50%;
+    top: 53%;
+    z-index: 1;
+    background: #ffffff;
+    color: #e72e77;
+}
+
+.login-modal div#OR:after {
+    content: "";
+    width: 1px;
+    /*  height: 161px; */
+    height: 63px;
+    background-color: #e72e77;
+    position: absolute;
+    left: 13px;
+    top: -222%;
+}
+
+.login-modal div#OR:before {
+    content: "";
+    width: 1px;
+    /*  height: 161px; */
+    height: 63px;
+    background-color: #e72e77;
+    position: absolute;
+    left: 13px;
+    bottom: -228%;
+}
+
+.ratingg .rating-container {
+    float: left;
+}
+
+.rating-container .star {
+    margin: 0 1px!important;
+}
+/* End Login Popup Modal CSS */
+
+.custom-link {
+    color: #e72e77;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.custom-link:hover {
+    color: #c02f60;
+}
+
+.error {
+    border: 1px solid #ff0000 !important;
+}
+
+span.help-block strong {
+    color: #f10000;
+}
+
+label.error {
+    border: none !important;
+    color: #ff0000;
+}
+
+body {
+    padding: 0!important;
+}
+
+#user-signup-model .modal-header,
+#vendor-signup-model .modal-header,
+#review-confirm .modal-header {
+    background-color: #e72e77;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px 5px 0 0;
+}
+
+#user-signup-model .modal-header .close,
+#vendor-signup-model .modal-header .close {
+    position: inherit;
+}
+
+.form-group.required .control-label:after {
+    content: "*";
+    color: #d40000;
+}
+
+.login-dpdn .dropdown-menu {
+    background-color: #f5f5f5;
+}
+
+.login-dpdn .dropdown-menu li a {
+    text-align: left;
+    color: #333333;
+    transition: .5s;
+    font-size: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.login-dpdn .dropdown-menu li a:hover {
+    background-color: #e72e77;
+    color: #fff;
+    transition: .5s;
+}
+
+.profile-sidebar .profile-photo {
+    position: relative;
+}
+
+.profile-sidebar .profile-photo:hover .chnge-photo {
+    opacity: 1;
+}
+
+.profile-sidebar .profile-photo:hover img {
+    opacity: 0.8;
+}
+
+.profile-sidebar .profile-photo .chnge-photo {
+    font-size: 25px;
+    position: absolute;
+    bottom: 56%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 25px;
+    color: #ffffff;
+    cursor: pointer;
+    opacity: 0;
+}
+
+#profile_pic {
+    display: none;
+}
+
+.morecontent span {
+    display: none;
+}
+
+.morelink {
+    display: block;
+}
+
+.gallery-folder .gallery-folder-caption img {
+    height: 50px;
+}
+
+.listing-box-img .bokmarkic {
+    z-index: auto;
+}
+
+.form-group sup {
+    color: red;
+}
+
+#gallery .row-container:nth-child(even) {
+    padding-left: 0;
+}
+
+#gallery .row-container:nth-child(odd) {
+    padding-left: 0;
+}
+
+#gallery .row-container a img {
+    margin: 0 0 0em;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+#gallery .sub-box {
+    background-color: #fff;
+    padding: 1em 1em;
+    margin: 0 0 1em;
+    box-shadow: 0.5px 0.9px 5px 0 rgba(0, 0, 0, .2);
+}
+
+#gallery .sub-box h5 {
+    color: #000;
+    margin: 0;
+}
+
+#gallery .sub-box p {
+    color: #000;
+    margin: 0;
+}
+
+#gallery .sub-box .img-box {
+    padding: 0px;
+}
+
+#gallery .sub-box .img-box img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50pc;
+}
+
+#gallery .sub-box .user-caption {
+    padding: 5px 2em;
+}
+
+#gallery .sub-box h5 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #e72e77;
+}
+
+#gallery .sub-box p a {
+    font-size: 13px;
+    font-weight: 400;
+    color: #9b9b9b;
+}

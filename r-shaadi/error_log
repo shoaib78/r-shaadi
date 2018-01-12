@@ -1,0 +1,209 @@
+[11-Mar-2017 23:42:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/Auth/RegisterController.php on line 106
+[11-Mar-2017 23:42:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/Auth/RegisterController.php on line 106
+[11-Mar-2017 23:42:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/Auth/RegisterController.php on line 106
+[11-Mar-2017 23:42:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/Auth/RegisterController.php on line 106
+[11-Mar-2017 23:42:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/Auth/RegisterController.php on line 106
+[14-Mar-2017 08:28:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/applausesfl/public_html/wedding/wedding_planner/storage/framework/views/adcf7e3cf01f97ee94bae833c6e9c83d00772e3f.php on line 519
+[14-Mar-2017 09:50:18 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 09:51:49 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 09:54:19 UTC] PHP Parse error:  syntax error, unexpected ''test'' (T_CONSTANT_ENCAPSED_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 09:56:28 UTC] PHP Parse error:  syntax error, unexpected ''test'' (T_CONSTANT_ENCAPSED_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 09:57:07 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 09:58:53 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 09:59:56 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 10:09:52 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 10:10:01 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 10:10:12 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 10:10:24 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 10:11:25 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Admin/ReviewController.php on line 1
+[14-Mar-2017 10:36:17 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/VendorController.php on line 1
+[15-Mar-2017 06:29:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/Auth/RegisterController.php on line 106
+[15-Mar-2017 06:30:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/Auth/RegisterController.php on line 106
+[15-Mar-2017 06:30:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/Auth/RegisterController.php on line 106
+[15-Mar-2017 06:31:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/applausesfl/public_html/wedding/wedding_planner/app/Http/Controllers/Site/Auth/RegisterController.php on line 106
+[18-Mar-2017 10:37:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/shaadivibes/public_html/storage/framework/views/b34958990ed5a96a1aa5f3f021437c5d4316013c.php on line 69
+[18-Mar-2017 10:38:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/shaadivibes/public_html/storage/framework/views/b34958990ed5a96a1aa5f3f021437c5d4316013c.php on line 69
+[18-Mar-2017 10:38:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/shaadivibes/public_html/storage/framework/views/b34958990ed5a96a1aa5f3f021437c5d4316013c.php on line 69
+[18-Mar-2017 10:39:10 UTC] PHP Parse error:  syntax error, unexpected 'gallary_img' (T_STRING) in /home/shaadivibes/public_html/storage/framework/views/b34958990ed5a96a1aa5f3f021437c5d4316013c.php on line 69
+[18-Mar-2017 10:39:12 UTC] PHP Parse error:  syntax error, unexpected 'gallary_img' (T_STRING) in /home/shaadivibes/public_html/storage/framework/views/b34958990ed5a96a1aa5f3f021437c5d4316013c.php on line 69
+[18-Mar-2017 10:39:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/shaadivibes/public_html/storage/framework/views/e7345a633d59e7ea75ce456a3fa14250f13bc8f8.php on line 1
+[18-Mar-2017 11:44:02 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/shaadivibes/public_html/storage/framework/views/f9568f2848d6442b7f2150702201895292801b08.php on line 138
+[18-Mar-2017 11:44:24 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/shaadivibes/public_html/storage/framework/views/f9568f2848d6442b7f2150702201895292801b08.php on line 138
+[18-Mar-2017 11:44:28 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/shaadivibes/public_html/storage/framework/views/f9568f2848d6442b7f2150702201895292801b08.php on line 138
+[18-Mar-2017 13:10:53 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 222
+[18-Mar-2017 13:19:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 83
+[18-Mar-2017 13:20:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 84
+[18-Mar-2017 13:23:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 84
+[18-Mar-2017 13:29:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 80
+[18-Mar-2017 13:30:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 80
+[18-Mar-2017 13:46:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 217
+[18-Mar-2017 13:46:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 217
+[20-Mar-2017 07:04:31 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Site/GallaryController.php on line 1
+[20-Mar-2017 07:04:57 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Site/GallaryController.php on line 1
+[20-Mar-2017 07:04:59 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Site/GallaryController.php on line 1
+[20-Mar-2017 07:05:27 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Site/GallaryController.php on line 1
+[20-Mar-2017 07:05:28 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Site/GallaryController.php on line 1
+[20-Mar-2017 11:21:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shaadivibes/public_html/storage/framework/views/f9568f2848d6442b7f2150702201895292801b08.php on line 263
+[20-Mar-2017 11:21:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shaadivibes/public_html/storage/framework/views/f9568f2848d6442b7f2150702201895292801b08.php on line 399
+[20-Mar-2017 11:21:39 UTC] PHP Parse error:  syntax error, unexpected 'layouts' (T_STRING) in /home/shaadivibes/public_html/storage/framework/views/f9568f2848d6442b7f2150702201895292801b08.php on line 590
+[21-Mar-2017 10:55:41 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/shaadivibes/public_html/app/Http/Controllers/Admin/PagesController.php on line 169
+[21-Mar-2017 11:13:11 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Site\Controller' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/PagesController.php on line 12
+[21-Mar-2017 11:14:03 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Controller' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/PagesController.php on line 12
+[21-Mar-2017 12:18:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 1
+[21-Mar-2017 12:18:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 1
+[21-Mar-2017 13:24:03 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Admin/SettingsController.php on line 1
+[21-Mar-2017 13:24:06 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Admin/SettingsController.php on line 1
+[21-Mar-2017 13:56:56 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/shaadivibes/public_html/storage/framework/views/a602a8f59d989cd80dc3cf1acdfd42b4c6b4f72d.php on line 4
+[21-Mar-2017 13:56:59 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/shaadivibes/public_html/storage/framework/views/a602a8f59d989cd80dc3cf1acdfd42b4c6b4f72d.php on line 4
+[21-Mar-2017 14:17:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Site\Category' not found in /home/shaadivibes/public_html/app/Http/Controllers/Site/PagesController.php on line 17
+[22-Mar-2017 07:31:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/shaadivibes/public_html/storage/framework/views/08bcf764e50b4bfa37f544aa0db22ea29a16a8a8.php on line 139
+[22-Mar-2017 07:31:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/shaadivibes/public_html/storage/framework/views/08bcf764e50b4bfa37f544aa0db22ea29a16a8a8.php on line 139
+[22-Mar-2017 08:19:10 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Session' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/PagesController.php on line 25
+[22-Mar-2017 08:19:40 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Setting' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/PagesController.php on line 30
+[22-Mar-2017 09:53:51 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/shaadivibes/public_html/storage/framework/views/c4986574c55ac93e45ee63c58ee643639c1bcae2.php on line 804
+[22-Mar-2017 09:53:54 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/shaadivibes/public_html/storage/framework/views/c4986574c55ac93e45ee63c58ee643639c1bcae2.php on line 804
+[22-Mar-2017 12:04:49 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Datatables' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/IndexController.php on line 270
+[22-Mar-2017 12:33:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Page' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/IndexController.php on line 180
+[22-Mar-2017 13:29:11 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 59
+[22-Mar-2017 13:31:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 59
+[22-Mar-2017 13:31:40 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 59
+[22-Mar-2017 13:31:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 59
+[22-Mar-2017 13:33:21 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 61
+[22-Mar-2017 13:33:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 61
+[22-Mar-2017 13:35:25 UTC] PHP Parse error:  syntax error, unexpected 'Request' (T_STRING) in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 56
+[22-Mar-2017 13:36:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\local_vendors' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/IndexController.php on line 458
+[22-Mar-2017 14:19:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 56
+[22-Mar-2017 14:24:11 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/IndexController.php on line 660
+[22-Mar-2017 14:28:26 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/IndexController.php on line 660
+[22-Mar-2017 14:29:06 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE), expecting ',' or ';' in /home/shaadivibes/public_html/app/Http/Controllers/Admin/IndexController.php on line 7
+[23-Mar-2017 04:29:06 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 118
+[23-Mar-2017 04:29:12 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 118
+[23-Mar-2017 05:56:39 UTC] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Admin/UserController.php on line 223
+[23-Mar-2017 05:56:42 UTC] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Admin/UserController.php on line 223
+[23-Mar-2017 07:02:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Redirect' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/UserController.php on line 290
+[23-Mar-2017 07:02:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Redirect' not found in /home/shaadivibes/public_html/app/Http/Controllers/Admin/UserController.php on line 290
+[23-Mar-2017 07:14:50 UTC] PHP Parse error:  syntax error, unexpected 'select' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Admin/UserController.php on line 265
+[23-Mar-2017 07:14:56 UTC] PHP Parse error:  syntax error, unexpected 'select' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Admin/UserController.php on line 265
+[23-Mar-2017 11:40:18 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/shaadivibes/public_html/storage/framework/views/ae615fe26325c119cb305ff5829fc324c27a3be6.php on line 33
+[23-Mar-2017 11:40:19 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/shaadivibes/public_html/storage/framework/views/ae615fe26325c119cb305ff5829fc324c27a3be6.php on line 33
+[23-Mar-2017 11:40:31 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/shaadivibes/public_html/storage/framework/views/ae615fe26325c119cb305ff5829fc324c27a3be6.php on line 33
+[23-Mar-2017 12:41:09 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:41:12 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:41:58 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:42:00 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:42:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:43:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:43:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:43:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:43:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:44:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:44:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 110
+[23-Mar-2017 12:46:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:46:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:47:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 109
+[23-Mar-2017 12:48:57 UTC] PHP Fatal error:  Class 'Str' not found in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 110
+[23-Mar-2017 12:48:59 UTC] PHP Fatal error:  Class 'Str' not found in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 110
+[23-Mar-2017 12:56:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:56:45 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:57:31 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 12:57:33 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 107
+[23-Mar-2017 13:31:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shaadivibes/public_html/storage/framework/views/e7345a633d59e7ea75ce456a3fa14250f13bc8f8.php on line 86
+[23-Mar-2017 13:47:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 62
+[23-Mar-2017 13:48:01 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 62
+[23-Mar-2017 13:48:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 62
+[24-Mar-2017 03:37:15 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 118
+[24-Mar-2017 03:37:21 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 118
+[24-Mar-2017 03:43:13 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 118
+[24-Mar-2017 03:43:21 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 118
+[24-Mar-2017 05:39:45 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/shaadivibes/public_html/app/Http/Controllers/Admin/IndexController.php on line 144
+[25-Mar-2017 19:49:57 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 118
+[28-Mar-2017 11:02:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b34958990ed5a96a1aa5f3f021437c5d4316013c.php on line 148
+[28-Mar-2017 11:42:00 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 118
+[28-Mar-2017 11:45:50 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 118
+[28-Mar-2017 13:11:46 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/shaadivibes/public_html/app/Http/Controllers/Admin/ReviewController.php on line 92
+[29-Mar-2017 06:40:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 80
+[29-Mar-2017 06:43:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 45
+[29-Mar-2017 06:43:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/6a86497876e3c3699aba5ab199fab9c8c0c39e8a.php on line 45
+[29-Mar-2017 07:10:14 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shaadivibes/public_html/storage/framework/views/b34958990ed5a96a1aa5f3f021437c5d4316013c.php on line 35
+[29-Mar-2017 07:10:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shaadivibes/public_html/storage/framework/views/b34958990ed5a96a1aa5f3f021437c5d4316013c.php on line 35
+[29-Mar-2017 07:53:30 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 123
+[29-Mar-2017 07:53:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 123
+[29-Mar-2017 08:01:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 129
+[29-Mar-2017 08:11:15 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/shaadivibes/public_html/storage/framework/views/f7db8b2a934221aecb29daf1b6e16a0a42c85ce4.php on line 184
+[29-Mar-2017 08:11:40 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/shaadivibes/public_html/storage/framework/views/f7db8b2a934221aecb29daf1b6e16a0a42c85ce4.php on line 184
+[29-Mar-2017 08:12:02 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/shaadivibes/public_html/storage/framework/views/f7db8b2a934221aecb29daf1b6e16a0a42c85ce4.php on line 184
+[29-Mar-2017 10:02:11 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Site\Auth\Session' not found in /home/shaadivibes/public_html/app/Http/Controllers/Site/Auth/PasswordController.php on line 43
+[29-Mar-2017 12:42:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 47
+[29-Mar-2017 13:09:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 205
+[29-Mar-2017 13:09:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 205
+[29-Mar-2017 13:09:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 205
+[29-Mar-2017 13:29:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 234
+[29-Mar-2017 13:30:14 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 288
+[30-Mar-2017 08:28:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/shaadivibes/public_html/app/Http/Controllers/SocialAuthController.php on line 35
+[30-Mar-2017 09:25:13 UTC] PHP Fatal error:  Class 'app\User' not found in /home/shaadivibes/public_html/app/Http/Controllers/SocialAuthController.php on line 51
+[30-Mar-2017 09:58:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shaadivibes/public_html/app/Http/Controllers/SocialAuthController.php on line 28
+[30-Mar-2017 09:59:21 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Image' not found in /home/shaadivibes/public_html/app/Http/Controllers/SocialAuthController.php on line 41
+[30-Mar-2017 10:00:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shaadivibes/public_html/app/Http/Controllers/SocialAuthController.php on line 28
+[30-Mar-2017 19:52:01 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 19:52:02 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 19:52:06 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 19:52:16 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 19:52:17 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 19:52:17 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 19:52:17 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 19:52:18 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 19:52:18 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 22:24:48 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[30-Mar-2017 22:24:48 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 02:27:08 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 02:27:13 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 03:29:00 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 03:29:01 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 04:59:15 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 04:59:25 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 04:59:27 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 05:03:39 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 05:03:43 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 05:04:38 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 05:04:45 UTC] PHP Fatal error:  Class 'App\User_comment' not found in /home/shaadivibes/public_html/app/Http/Controllers/HomeController.php on line 38
+[31-Mar-2017 05:20:46 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Site\Mail' not found in /home/shaadivibes/public_html/app/Http/Controllers/Site/IndexController.php on line 77
+[31-Mar-2017 06:34:17 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting '{' in /home/shaadivibes/public_html/app/Http/Controllers/Site/IndexController.php on line 80
+[01-Apr-2017 05:24:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 58
+[01-Apr-2017 05:26:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 177
+[01-Apr-2017 05:26:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 177
+[06-Apr-2017 07:53:04 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 13
+[06-Apr-2017 10:15:47 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 124
+[06-Apr-2017 12:45:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/shaadivibes/public_html/app/Http/Controllers/Site/VendorController.php on line 283
+[06-Apr-2017 13:09:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123207680 bytes) in /home/shaadivibes/public_html/storage/framework/views/2ac87eda84bf4105e3341d391762fbb972e601c9.php on line 1
+[06-Apr-2017 13:09:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 121896960 bytes) in /home/shaadivibes/public_html/storage/framework/views/2ac87eda84bf4105e3341d391762fbb972e601c9.php on line 1
+[07-Apr-2017 04:35:11 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/shaadivibes/public_html/storage/framework/views/b34958990ed5a96a1aa5f3f021437c5d4316013c.php on line 582
+[18-Apr-2017 03:19:01 UTC] PHP Fatal error:  Call to a member function isEmpty() on array in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 123
+[24-Apr-2017 14:00:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 73
+[24-Apr-2017 14:00:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 73
+[24-Apr-2017 14:01:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 73
+[24-Apr-2017 14:01:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 73
+[24-Apr-2017 14:01:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 73
+[24-Apr-2017 14:02:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 73
+[24-Apr-2017 14:02:36 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 73
+[24-Apr-2017 14:03:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 73
+[24-Apr-2017 14:03:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shaadivibes/public_html/storage/framework/views/b213f222ca0833096a66aa002e10e858d975d9cb.php on line 73
+[28-Apr-2017 10:59:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 301
+[28-Apr-2017 10:59:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 301
+[28-Apr-2017 11:02:20 UTC] PHP Parse error:  syntax error, unexpected 'reviews_count' (T_STRING) in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 321
+[28-Apr-2017 11:30:46 UTC] PHP Fatal error:  Call to a member function isEmpty() on array in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 123
+[28-Apr-2017 11:30:53 UTC] PHP Fatal error:  Call to a member function isEmpty() on array in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 123
+[28-Apr-2017 11:31:39 UTC] PHP Fatal error:  Call to a member function isEmpty() on array in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 123
+[28-Apr-2017 11:32:01 UTC] PHP Fatal error:  Call to a member function isEmpty() on array in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 123
+[28-Apr-2017 11:32:07 UTC] PHP Fatal error:  Call to a member function isEmpty() on array in /home/shaadivibes/public_html/storage/framework/views/b8c49a4cecd6098218a8367991c06949553b0bfb.php on line 123
+[28-Apr-2017 13:59:41 UTC] PHP Fatal error:  Class 'App\Providers\Validator' not found in /home/shaadivibes/public_html/app/Providers/AppServiceProvider.php on line 19
+[28-Apr-2017 13:59:49 UTC] PHP Fatal error:  Class 'App\Providers\Validator' not found in /home/shaadivibes/public_html/app/Providers/AppServiceProvider.php on line 19
+[28-Apr-2017 13:59:57 UTC] PHP Fatal error:  Class 'App\Providers\Validator' not found in /home/shaadivibes/public_html/app/Providers/AppServiceProvider.php on line 19
+[28-Apr-2017 14:01:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/shaadivibes/public_html/app/Http/Controllers/Site/VendorController.php on line 84
+[28-Apr-2017 14:02:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/shaadivibes/public_html/app/Http/Controllers/Site/VendorController.php on line 84
+[28-Apr-2017 14:02:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/shaadivibes/public_html/app/Http/Controllers/Site/VendorController.php on line 84
+[28-Apr-2017 14:02:23 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/shaadivibes/public_html/app/Http/Controllers/Site/VendorController.php on line 84
+[04-May-2017 07:52:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shaadivibes/public_html/storage/framework/views/e7345a633d59e7ea75ce456a3fa14250f13bc8f8.php on line 79
+[04-May-2017 07:52:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shaadivibes/public_html/storage/framework/views/e7345a633d59e7ea75ce456a3fa14250f13bc8f8.php on line 79
+[05-May-2017 07:22:08 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 255
+[09-May-2017 06:10:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 384
+[09-May-2017 07:03:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shaadivibes/public_html/app/Http/Controllers/Site/ListingsController.php on line 383

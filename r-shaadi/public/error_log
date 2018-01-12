@@ -1,0 +1,1 @@
+[28-Apr-2017 13:59:53 UTC] PHP Fatal error:  Class 'App\Providers\Validator' not found in /home/shaadivibes/public_html/app/Providers/AppServiceProvider.php on line 19
